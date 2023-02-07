@@ -17,3 +17,10 @@
   background-color: white;
   font-size: 200px;
 }
+
+.reset {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 20px;
+}
